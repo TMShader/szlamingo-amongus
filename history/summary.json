@@ -4,7 +4,15 @@
     "url": "https://szlamingo-amongus.glitch.me/",
     "slug": "szlaminga-among-us-liga",
     "status": "up",
-    "uptime": "99.37%",
-    "time": 4816
+    "uptime": "99.43%",
+    "time": 4502
+  },
+  {
+    "name": "TMS Bot",
+    "url": "https://tmsbot.glitch.me/",
+    "slug": "tms-bot",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 434
   }
 ]
