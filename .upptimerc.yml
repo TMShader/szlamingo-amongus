@@ -6,6 +6,8 @@ repo: szlamingo-amongus # Your Github repository name
 sites:
   - name: Szlaminga Among Us Liga
     url: https://szlamingo-amongus.glitch.me/
+  - name: TMS Bot
+    url: https://tmsbot.glitch.me/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
