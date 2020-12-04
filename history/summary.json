@@ -4,16 +4,16 @@
     "url": "https://szlamingo-amongus.glitch.me/",
     "slug": "szlaminga-among-us-liga",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
-    "time": 5221,
-    "timeDay": 504,
-    "timeWeek": 4872,
-    "timeMonth": 5221,
-    "timeYear": 5221
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 5039,
+    "timeDay": 1574,
+    "timeWeek": 4998,
+    "timeMonth": 5039,
+    "timeYear": 5039
   },
   {
     "name": "TMS Bot",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 407,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356
+    "time": 2864,
+    "timeDay": 15402,
+    "timeWeek": 2864,
+    "timeMonth": 2864,
+    "timeYear": 2864
   }
 ]
