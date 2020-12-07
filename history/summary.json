@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/szlamingo-amongus.glitch.me",
     "slug": "szlaminga-among-us-liga",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 4423,
     "timeDay": 242,
     "timeWeek": 3189,
@@ -25,9 +25,9 @@
     "url": "https://tmsbot.glitch.me/",
     "icon": "https://favicons.githubusercontent.com/tmsbot.glitch.me",
     "slug": "tms-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +36,8 @@
     "timeWeek": 2848,
     "timeMonth": 2282,
     "timeYear": 2282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-07": 0
+    }
   }
 ]
