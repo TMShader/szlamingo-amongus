@@ -2,22 +2,28 @@
   {
     "name": "Szlaminga Among Us Liga",
     "url": "https://szlamingo-amongus.glitch.me/",
+    "icon": "https://favicons.githubusercontent.com/szlamingo-amongus.glitch.me",
     "slug": "szlaminga-among-us-liga",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
-    "time": 4613,
-    "timeDay": 339,
-    "timeWeek": 3886,
-    "timeMonth": 4613,
-    "timeYear": 4613
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 4423,
+    "timeDay": 242,
+    "timeWeek": 3189,
+    "timeMonth": 4423,
+    "timeYear": 4423,
+    "dailyMinutesDown": {
+      "2020-12-01": 44,
+      "2020-11-23": 84
+    }
   },
   {
     "name": "TMS Bot",
     "url": "https://tmsbot.glitch.me/",
+    "icon": "https://favicons.githubusercontent.com/tmsbot.glitch.me",
     "slug": "tms-bot",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2530,
-    "timeDay": 209,
-    "timeWeek": 2530,
-    "timeMonth": 2530,
-    "timeYear": 2530
+    "time": 2282,
+    "timeDay": 301,
+    "timeWeek": 2848,
+    "timeMonth": 2282,
+    "timeYear": 2282,
+    "dailyMinutesDown": {}
   }
 ]
