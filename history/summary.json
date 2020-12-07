@@ -25,19 +25,19 @@
     "url": "https://tmsbot.glitch.me/",
     "icon": "https://favicons.githubusercontent.com/tmsbot.glitch.me",
     "slug": "tms-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2282,
-    "timeDay": 301,
-    "timeWeek": 2848,
-    "timeMonth": 2282,
-    "timeYear": 2282,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 3726,
+    "timeDay": 8512,
+    "timeWeek": 4583,
+    "timeMonth": 3726,
+    "timeYear": 3726,
     "dailyMinutesDown": {
-      "2020-12-07": 0
+      "2020-12-07": 34
     }
   }
 ]
