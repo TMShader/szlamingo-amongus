@@ -25,9 +25,9 @@
     "url": "https://tmsbot.glitch.me/",
     "icon": "https://favicons.githubusercontent.com/tmsbot.glitch.me",
     "slug": "tms-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -37,6 +37,7 @@
     "timeMonth": 2207,
     "timeYear": 2207,
     "dailyMinutesDown": {
+      "2020-12-17": 0,
       "2020-12-07": 34
     }
   }
